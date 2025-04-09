@@ -1,0 +1,21 @@
+{
+  "name": "nippon-light",
+  "displayName": "nippon-light",
+  "description": "Light color theme of traditional Japanese colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nippon Light",
+        "uiTheme": "vs",
+        "path": "./themes/Nippon Light-color-theme.json"
+      }
+    ]
+  }
+}
