@@ -1,8 +1,12 @@
 # nippon-light README
 
-Nippon Light theme is a light color theme using Japanese traditional colors.
+Nippon Light theme is a light color theme for vs code using Japanese traditional colors.
 
 Pcking colors from [和色大辞典](https://www.colordic.org/w).
+
+## Install
+
+Install `Nippon Light` theme from vs code market place.
 
 ## Build & install 
 

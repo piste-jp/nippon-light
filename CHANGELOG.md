@@ -7,7 +7,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 ### Added
-  - Initial version of Nippon Light color theme
 
 ### Changed
 
@@ -18,3 +17,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 
 ### Security
+
+## [v0.0.2]
+
+### Added
+  - First version to upload to the vs code market place
+
+## [v0.0.1]
+
+### Added
+  - Initial version of Nippon Dark color theme
