@@ -334,6 +334,7 @@
 
 		// Badge
 		"badge.background": "#640125",  // 葡萄色 えびいろ
+		"badge.foreground": "#fdeff2",  // 薄桜 うすざくら
 
 		// Progress bar
 		"progressBar.background": "#e9e4d4",  // 灰白色 かいはくしょく
