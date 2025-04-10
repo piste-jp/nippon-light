@@ -115,7 +115,19 @@
 				"fontStyle": "bold",
 				"foreground": "#156e83"  // 藍色 あいいろ
 			}
-		},		
+		},
+		{
+			"name": "Struct",
+			"scope": [
+					"storage.type.struct",
+					"storage.type.class",
+					"storage.type.modifier.access.control"
+			],
+			"settings": {
+					"fontStyle": "bold",
+					"foreground":  "#522f60"  // 葡萄色 ぶどういろ
+			}
+		},
 		{
 			"name": "Exceptions",
 			"scope": "entity.name.exception",
@@ -352,7 +364,7 @@
 		"editorWidget.background": "#e9e4d4",            // 灰白色 かいはくしょく
 		"editor.lineHighlightBackground": "#e8d3c7",     // 灰梅 はいうめ
 		"editor.selectionBackground": "#95949a",         // 桔梗鼠 ききょうねず
-		"editorWhitespace.foreground": "#e9e4d4",        // 灰白色 かいはくしょく
+		"editorWhitespace.foreground": "#cbb994",        // 白橡 しろつるばみ
 		"editorIndentGuide.background1": "#e9e4d4",      // 灰白色 かいはくしょく
 		"editorIndentGuide.activeBackground1": "#e9e4d4",  // 灰白色 かいはくしょく
 		"editorHoverWidget.background": "#dddcd680",     // 絹鼠 きぬねず
